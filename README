@@ -1,0 +1,5 @@
+This project involves idenitfying solid-like clusters of atoms within the trajectories of CMD simulations.
+The included codes will locate and define the clusters (nuclei) of solid atoms in supercooled lammps simulations of liquids.
+clusters.f95 is the standard code
+make.sh is a short, temporary make file for the Archer2 system
+test.f95 is the same as clusters.f95 but also defines the surrounding liquid composition of clusters.
